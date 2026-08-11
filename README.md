@@ -277,19 +277,19 @@ Engineering is the main road, but not the whole map.
   <img
     src="https://github-readme-stats.vercel.app/api?username=noori909&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="165"
-    alt="GitHub statistics"
+    alt="GitHub Statistics"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=noori909&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
-    alt="Top languages"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=noori909&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
+    src="https://streak-stats.demolab.com?user=noori909&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
