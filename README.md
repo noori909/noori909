@@ -31,14 +31,14 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 ```text
-Name       : Noman
+Name       : Noman Rahim
 Role       : Electrical Engineering Undergraduate
 Domain     : RF / Microwave / Applied Electromagnetics
 Interests  : Antennas • Radar • SatCom • mmWave • 6G
-Current    : Wideband mmWave Phased-Array Research
+Current    : Flexible MIMO mmWave Antenna Research
 Approach   : Physics → Model → Simulate → Build → Test
 Status     : Learning • Building • Researching
 ```
@@ -105,21 +105,20 @@ Aerospace RF
 
 ## Currently Working On
 
-### 📡 Wideband mmWave Phased-Array Research
+### 📡 A Flexible MIMO Antenna System for Next-Gen Millimeter Wave IoT Enabled Smart Devices
 
 My undergraduate research project explores the design and simulation of a
-wideband millimeter-wave phased-array antenna system.
+flexible wideband millimeter-wave phased-array antenna system.
 
 **Current direction**
 
-- 28 GHz / 38 GHz operation
+- 24-30 GHz operation
 - Rectangular microstrip patch elements
-- Defected Ground Structure (DGS)
-- Array development: 1×4 → 1×8 → 4×4
-- Beam steering analysis
+- Flexible Substrate Optimization
+- MIMO Implementation
+- Rigorous ECC Evaluation
 - Parametric electromagnetic simulation
-- Machine-learning-assisted optimization
-- PSO-based design optimization
+
 
 **Primary tools**
 
@@ -188,19 +187,19 @@ a repeatable research pipeline.
              └──────────┬───────────┘
                         ↓
              ┌──────────────────────┐
-             │   Theory / Literature│
+             │  Theory / Literature │
              └──────────┬───────────┘
                         ↓
              ┌──────────────────────┐
-             │   Mathematical Model │
+             │  Mathematical Model  │
              └──────────┬───────────┘
                         ↓
              ┌──────────────────────┐
-             │       Simulation     │
+             │      Simulation      │
              └──────────┬───────────┘
                         ↓
              ┌──────────────────────┐
-             │ Data / Optimization  │
+             │  Data / Optimization │
              └──────────┬───────────┘
                         ↓
              ┌──────────────────────┐
@@ -208,7 +207,7 @@ a repeatable research pipeline.
              └──────────┬───────────┘
                         ↓
              ┌──────────────────────┐
-             │ Document / Publish   │
+             │  Document / Publish  │
              └──────────────────────┘
 ```
 
@@ -251,8 +250,8 @@ Currently strengthening the foundations behind the systems I want to build:
 </p>
 
 I am interested in engineering where theory meets implementation:
-where equations become simulations, simulations become prototypes, and
-prototypes are forced to answer to reality.
+equations become simulations, simulations become prototypes, and
+prototypes to reality.
 
 ---
 
@@ -266,8 +265,7 @@ Engineering is the main road, but not the whole map.
 <td align="center">🎬<br><b>Cinema</b></td>
 <td align="center">🎮<br><b>FPS Games</b></td>
 <td align="center">📚<br><b>Philosophy</b></td>
-<td align="center">🧠<br><b>Psychology</b></td>
-<td align="center">🌌<br><b>Science</b></td>
+<td align="center">🌷<br><b>Literature</b></td>
 </tr>
 </table>
 
@@ -277,12 +275,12 @@ Engineering is the main road, but not the whole map.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=noori909&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="165"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noori909&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top languages"
   />
@@ -303,10 +301,10 @@ Engineering is the main road, but not the whole map.
   <a href="YOUR_WEBSITE_URL">
     <img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" alt="Website" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/noman-rahim-636455394">
     <img src="https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_EMAIL_URL">
+  <a href="nomanrahim65@gmail.com">
     <img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
