@@ -1,312 +1,141 @@
-<!-- ============================================================
-     GITHUB PROFILE README
-     Replace the placeholder links/values marked with [ ... ]
-     ============================================================ -->
-
 <!-- Header -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:06b6d4&height=210&section=header&text=NOMAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:06b6d4&height=180&section=header&text=NOMAN RAHIM&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
     width="100%"
     alt="Noman header"
   />
 </p>
 
 <h3 align="center">
-  Electrical Engineering • RF • Applied Electromagnetics • Research
+  Electrical Engineering • Telecom • Applied Electromagnetics
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&pause=1400&color=06B6D4&center=true&vCenter=true&width=850&lines=Electrical+Engineering+Undergraduate;RF+%26+Applied+Electromagnetics;Antennas+%7C+mmWave+%7C+Phased+Arrays;Radar+%7C+Satellite+Communications+%7C+6G;Learning+to+turn+Maxwell%27s+equations+into+systems"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=19&pause=1300&color=06B6D4&center=true&vCenter=true&width=800&lines=RF+%26+Applied+Electromagnetics;Antennas+%7C+mmWave+%7C+MIMO;Radar+%7C+SatCom+%7C+6G;Learning+to+make+electromagnetic+fields+useful"
     alt="Typing introduction"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Field-Electrical%20Engineering-0f172a?style=for-the-badge&logo=academia&logoColor=06b6d4" alt="Field" />
-  <img src="https://img.shields.io/badge/Focus-RF%20%26%20Electromagnetics-0369a1?style=for-the-badge&logo=signal&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Research-Antennas%20%26%20mmWave-0891b2?style=for-the-badge&logo=probot&logoColor=white" alt="Research" />
+  <a href="https://noori909.github.io/nomi/">
+    <img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/noman-rahim-636455394/">
+    <img src="https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nomanrahim65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-## `who am i`
+## `noman@lab:~$ whoami`
 
 ```text
-Name       : Noman Rahim
-Role       : Electrical Engineering Undergraduate
-Domain     : RF / Microwave / Applied Electromagnetics
-Interests  : Antennas • Radar • SatCom • mmWave • 6G
-Current    : Flexible MIMO mmWave Antenna Research
-Approach   : Physics → Model → Simulate → Build → Test
-Status     : Learning • Building • Researching
+Electrical Engineering Undergraduate
+RF / Microwave / Applied Electromagnetics
+Antennas • MIMO • mmWave • Radar • SatCom
 ```
 
-I am an Electrical Engineering undergraduate building toward a career in
-**RF engineering, applied electromagnetics, and research**.
-
-My interests sit at the intersection of electromagnetic theory, wireless
-systems, computational design, and real-world engineering.
-
-> **Understand the physics first. Model it second. Simulate it third.
-> Build it when the model survives reality.**
+> **Physics → Model → Simulate → Validate → Document**
 
 ---
 
-## Research Interests
+## 📡 Current Research
 
-<table>
-<tr>
-<td align="center" width="25%">
+### Flexible MIMO Antenna System
 
-### RF & Microwave
+**Next-Gen Millimeter-Wave IoT Enabled Smart Devices**
 
-Microwave Engineering  
-RF Systems  
-Transmission Lines  
-High-Frequency Circuits
-
-</td>
-<td align="center" width="25%">
-
-### Antennas & Arrays
-
-Microstrip Antennas  
-Phased Arrays  
-Beam Steering  
-Beamforming
-
-</td>
-<td align="center" width="25%">
-
-### Electromagnetics
-
-Applied EM  
-Computational EM  
-Metasurfaces  
-EM Shielding
-
-</td>
-<td align="center" width="25%">
-
-### Wireless & Aerospace
-
-mmWave / 6G  
-Radar Systems  
-Satellite Communications  
-Aerospace RF
-
-</td>
-</tr>
-</table>
+| Focus        | Current Direction |
+| ------------ | ----------------- |
+| Frequency    | 24–30 GHz         |
+| Antenna      | Microstrip Patch  |
+| Architecture | MIMO              |
+| Substrate    | Flexible          |
+| Analysis     | ECC / Diversity   |
+| Simulation   | CST / HFSS        |
+| Computing    | MATLAB • Python   |
 
 ---
 
-## Currently Working On
-
-### 📡 A Flexible MIMO Antenna System for Next-Gen Millimeter Wave IoT Enabled Smart Devices
-
-My undergraduate research project explores the design and simulation of a
-flexible wideband millimeter-wave phased-array antenna system.
-
-**Current direction**
-
-- 24-30 GHz operation
-- Rectangular microstrip patch elements
-- Flexible Substrate Optimization
-- MIMO Implementation
-- Rigorous ECC Evaluation
-- Parametric electromagnetic simulation
-
-
-**Primary tools**
-
-`CST Studio Suite` · `MATLAB` · `Python`
-
-> The goal is not merely to make an antenna that works in simulation,
-> but to understand *why* the design works and how it can be systematically optimized.
-
----
-
-## Engineering Stack
-
-### Programming & Computing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,git,github,linux&perline=7" alt="Programming and computing tools" />
-</p>
-
-### Engineering & Simulation
-
-<p>
-  <img src="https://img.shields.io/badge/CST%20Studio%20Suite-EM%20Simulation-0f172a?style=for-the-badge&logoColor=white" alt="CST Studio Suite" />
-  <img src="https://img.shields.io/badge/MATLAB-Numerical%20Computing-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### Development & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Development tools" />
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-
----
-
-## Featured Projects
-
-> This section will grow as I turn experiments, simulations, and ideas into
-> documented engineering projects.
-
-| Project | Domain | Status |
-|---|---|---|
-| **Wideband mmWave Phased Array** | RF / Antennas / EM | In Progress |
-| **Personal Engineering Website** | Web / Documentation | Complete |
-| **RF Horizon Automation** | Engineering Automation | In Development |
-| **Field Notes** | Research / Learning | Growing |
-
-### Selected Work
-
-**[→ Personal Website](YOUR_WEBSITE_URL)**  
-A personal engineering and research archive containing projects, field notes,
-experiments, reflections, and technical documentation.
-
-**[→ RF Horizon Automation](YOUR_RF_PROJECT_URL)**  
-An automation-oriented engineering workflow exploring how tools, APIs,
-simulation, data processing, and AI-assisted workflows can be connected into
-a repeatable research pipeline.
-
----
-
-## Research Workflow
-
-```text
-             ┌──────────────────────┐
-             │    Research Question │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │  Theory / Literature │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │  Mathematical Model  │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │      Simulation      │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │  Data / Optimization │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │ Prototype / Validate │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │  Document / Publish  │
-             └──────────────────────┘
-```
-
----
-
-## Learning
-
-Currently strengthening the foundations behind the systems I want to build:
-
-- Electromagnetic Theory
-- Antenna Theory
-- Microwave Engineering
-- RF Engineering
-- Digital & Analog Communications
-- Signal Processing
-- Numerical Methods
-- Optimization
-- Machine Learning for Engineering
-- Python for Scientific Computing
-- Computational Electromagnetics
-- Radar Fundamentals
-- Satellite Communication
-
----
-
-## Engineering Philosophy
+## ⚡ Research Interests
 
 <p align="center">
-
-> **Physics first.**
->
-> **Mathematics second.**
->
-> **Simulation third.**
->
-> **Hardware eventually.**
->
-> **Evidence always.**
-
+  <img src="https://img.shields.io/badge/RF-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microwave-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antennas-0369a1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MIMO-0369a1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/mmWave-0891b2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Radar-0891b2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SatCom-06b6d4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/6G-06b6d4?style=for-the-badge" />
 </p>
 
-I am interested in engineering where theory meets implementation:
-equations become simulations, simulations become prototypes, and
-prototypes to reality.
+---
+
+## 🛠️ Engineering Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,git,github,vscode,linux&perline=8" alt="Engineering stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CST%20Studio%20Suite-EM%20Simulation-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MATLAB-Numerical%20Computing-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
 ---
 
-## Beyond Engineering
+## 🚀 Projects & Work
 
-Engineering is the main road, but not the whole map.
+| Project                                  | Domain                      | Status        |
+| ---------------------------------------- | --------------------------- | ------------- |
+| 📡 **Flexible MIMO Antenna System**      | RF / mmWave / MIMO          | 🔬 FYP        |
+| 🌐 **Personal Engineering Website**      | Web / Documentation         | 🟢 Live       |
+| 💊 **Secondary Pharma Distribution**     | Software / Business Systems | 🛠️ Built     |
+| ⚙️ **RF Horizon**                        | Research / Automation       | 🧪 Developing |
+| 📡 **Telco-AIX**                         | Telecom / AI                | 🔎 Exploring  |
+| 🛰️ **RF-ST**                            | RF / Satellite Tracking     | 🔎 Exploring  |
+| 📓 **Smart Micromachines**               | Engineering / Research      | 🌱 Growing    |
 
-<table>
-<tr>
-<td align="center">🦇<br><b>Batman</b></td>
-<td align="center">🎬<br><b>Cinema</b></td>
-<td align="center">🎮<br><b>FPS Games</b></td>
-<td align="center">📚<br><b>Philosophy</b></td>
-<td align="center">🌷<br><b>Literature</b></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/noori909?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+**→ [Engineering Website](https://noori909.github.io/nomi/)**
+Projects, research notes, experiments, documentation & reflections.
 
 ---
 
-## GitHub Activity
+
+## 📊 GitHub
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=noori909&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub Statistics"
+    height="160"
+    alt="GitHub statistics"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=noori909&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top Languages"
+    height="160"
+    alt="Top languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=noori909&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="GitHub streak"
   />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="YOUR_WEBSITE_URL">
-    <img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" alt="Website" />
-  </a>
-  <a href="www.linkedin.com/in/noman-rahim-636455394">
-    <img src="https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="nomanrahim65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 ---
@@ -317,7 +146,7 @@ Engineering is the main road, but not the whole map.
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0369a1,100:0f172a&height=110&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0369a1,100:0f172a&height=100&section=footer"
     width="100%"
     alt="Footer"
   />
