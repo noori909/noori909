@@ -1,0 +1,18 @@
+<svg width="100%" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="50%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="100" fill="url(#footerGrad)"/>
+  <path fill="#0f172a" opacity="0.5">
+    <animate attributeName="d" dur="3s" repeatCount="indefinite"
+      values="
+        M0,20 Q100,40 200,20 T400,20 T600,20 T800,20 L800,100 L0,100 Z;
+        M0,20 Q100,0 200,20 T400,20 T600,20 T800,20 L800,100 L0,100 Z;
+        M0,20 Q100,40 200,20 T400,20 T600,20 T800,20 L800,100 L0,100 Z
+      "/>
+  </path>
+</svg>
