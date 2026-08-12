@@ -4,7 +4,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:06b6d4&height=180&section=header&text=NOMAN RAHIM&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
     width="100%"
-    alt="Noman header"
+    alt="Noman Rahim"
   />
 </p>
 
