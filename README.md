@@ -239,24 +239,6 @@ My research interests currently lean toward electromagnetics and intelligent wir
 
 <p align="center">
   <a href="https://github.com/noori909">
-    <img src="https://img.shields.io/github/followers/noori909?style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/noori909">
-    <img src="https://img.shields.io/github/stars/noori909?style=social" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/noori909">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Contributions%20%281y%29&query=total&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fnoori909.json" alt="GitHub contributions" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/noori909">
-    <img src="https://github-readme-stats.vercel.app/api?username=noori909&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/noori909">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=noori909&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
   </a>
 </p>
